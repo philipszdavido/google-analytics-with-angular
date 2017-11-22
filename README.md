@@ -10,21 +10,21 @@ This app demonstrates how to track and record pageview events in an SPA applicat
 
 # Setup and Usage
 1. Setup up a Google Analytics account.
-1. Clone this repo:
+1.  Clone this repo:
 
-    git clone https://github.com/philipszdavido/google-analytics-with-angular
+        git clone https://github.com/philipszdavido/google-analytics-with-angular.git
 
-1. Move into the `google-analytics-with-angular` directory from the terminal:
+1.  Move into the `google-analytics-with-angular` directory from the terminal:
 
-    cd google-analytics-with-angular
+       cd google-analytics-with-angular
 
-1. Open `index.html` in your editor, and change the `UA-109919601-1` code to yours.
-1. Run the app:
+1.  Open `index.html` in your editor, and change the `UA-109919601-1` code to yours.
+1.  Run the app:
 
-    ng serve
+       ng serve
 
-1. Navigate to `localhost:4200` in your browser.
-1. Click on the links `routeOne` `routeTwo` and the button `Click Me` to see Google Analytics record the events.
+1.  Navigate to `localhost:4200` in your browser.
+1.  Click on the links `routeOne` `routeTwo` and the button `Click Me` to see Google Analytics record the events.
 
 ## How can I thank You
 Why not star the github repo? The attention would be appreciated! How about sharing the link for this repo on Twitter?
