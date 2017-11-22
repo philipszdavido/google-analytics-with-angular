@@ -1,6 +1,6 @@
 # Using Google Analytics with Angular
 
-This app demonstrates how to track and record pageview events in an SPA application.
+This app demonstrates how to track and record pageview events in an Angular (SPA) application.
 
 * View the Medium article at [Using Google Analytics with Angular](https://medium.com/@kurtwanger40/using-google-analytics-with-angular-25c93bffaa18)
 
@@ -9,7 +9,7 @@ This app demonstrates how to track and record pageview events in an SPA applicat
 - Google Analytics
 
 # Setup and Usage
-1. Setup up a Google Analytics account.
+1.  Setup up a Google Analytics account.
 1.  Clone this repo:
 
         git clone https://github.com/philipszdavido/google-analytics-with-angular.git
