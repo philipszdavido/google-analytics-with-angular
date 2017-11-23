@@ -16,9 +16,9 @@ import { RoutetwoComponent } from './routetwo/routetwo.component';
     BrowserModule,
     RouterModule.forRoot(
       [
-        {path: 'routeone', component: RouteoneComponent},
-        {path: 'routetwo', component: RoutetwoComponent},
-        {path: '**', redirectTo: '/routetwo'}
+        { path: 'routeone', component: RouteoneComponent },
+        { path: 'routetwo', component: RoutetwoComponent },
+        { path: '**', redirectTo: '/routetwo' }
       ]
     )
   ],
