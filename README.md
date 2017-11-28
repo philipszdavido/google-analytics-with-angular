@@ -18,6 +18,10 @@ This app demonstrates how to track and record pageview events in an Angular (SPA
 
         cd google-analytics-with-angular
 
+1.  Install the dependencies:
+
+        npm install
+
 1.  Open `index.html` in your editor, and change the `UA-109919601-1` code to yours.
 1.  Run the app:
 
